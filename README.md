@@ -11,6 +11,6 @@ O curso tem como objetivo desenvolver habilidade em programação back-end para 
 
  O curso tem como objetivo que você seja capaz de desenvolver programas a partir dos fundamentos básicos de JavaScript. Espera-se que ao fim do curso você seja capaz de desenvolver soluções aprimoradas utilizando recursos do JavaScript, a partir do paradigma de orientação a objetos. 
 
- ## 02. Padrões de Desenvolvimento de Software
+ ## 03. Padrões de Desenvolvimento de Software
 
  Esta trilha apresenta técnicas avançadas de análise e projeto de software, com ênfase em práticas de reuso por meio do paradigma de orientação a objetos. 
